@@ -1,0 +1,6 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<resources>
+    <string name="google_maps_api" translatable="false" templateMergeStrategy="preserve">AIzaSyA1-c67WGClqPhM0m1-XIFJJFJhOqtGPLE
+
+    </string>
+</resources>
